@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+#chat {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+#messages div {
+  margin: 5px 0;
+}
+#input {
+  width: 80%;
+}
+#send {
+  width: 18%;
+}
+#typing {
+  font-style: italic;
+  color: gray;
+}
